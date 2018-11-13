@@ -24,6 +24,7 @@ dotnet build
 dotnet build
 dotnet run
 
+# In parallel to 'dotnet run'
 # Sleep for ~3 seconds
 # do a curl post command - check for 200 OK
 # do a curl
